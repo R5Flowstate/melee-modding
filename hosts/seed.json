@@ -1,0 +1,163 @@
+{
+ "artifact_dagger": {
+  "melee": "melee_artifact_dagger",
+  "view_guid": "0x9AECC395F73C90A4",
+  "world_guid": "0xDBFE35C998100EF9",
+  "core_bone": "def_c_base",
+  "good_for": "dagger with release wings and slider"
+ },
+ "artifact_sword": {
+  "melee": "melee_artifact_sword",
+  "view_guid": "0xF17013F3898B0612",
+  "world_guid": "0xF1D1978365B3B94C",
+  "core_bone": "def_c_base",
+  "good_for": "two-hand sword feel"
+ },
+ "axe": {
+  "melee": "melee_bloodhound_axe",
+  "view_guid": "0x2577109FFC431267",
+  "world_guid": "0x25D8942FD86BC5A1",
+  "core_bone": "def_magazine",
+  "good_for": "axe, mace, sword, anything with a charm or chain (14-bone jiggle chain)"
+ },
+ "batons": {
+  "melee": "melee_lifeline_baton",
+  "view_guid": "0x8E2C9F9916950D92",
+  "world_guid": "0x2EDE7F2521CE95C7",
+  "core_bone": "def_c_drumstick_01_01",
+  "good_for": "dual sticks"
+ },
+ "blackhole": {
+  "melee": "melee_horizon_heirloom",
+  "view_guid": "0xF274ED4344141F4B",
+  "world_guid": "0xFD311A9FE42C42B6",
+  "core_bone": "def_c_base",
+  "good_for": "device with spikes"
+ },
+ "butterfly": {
+  "melee": "melee_octane_knife",
+  "view_guid": "0xB56FA7FBCE7E925C",
+  "world_guid": "0xC0D400FAD30F2579",
+  "core_bone": "def_r_handle",
+  "good_for": "balisong: mesh split into two handles"
+ },
+ "crypto_sword": {
+  "melee": "melee_crypto_heirloom",
+  "view_guid": "0x9C13FAACD78ACEFD",
+  "world_guid": "0x994183CCFDFC28C7",
+  "core_bone": "def_c_hilt",
+  "good_for": "folding sword (arms + sword rigs)"
+ },
+ "crypto_sword_rt01": {
+  "melee": "melee_crypto_heirloom_rt01",
+  "view_guid": "0x9F196CA2E888817B",
+  "world_guid": "0x994183CCFDFC28C7",
+  "core_bone": "def_c_hilt",
+  "good_for": "crypto_sword with the rethemed animations"
+ },
+ "fan": {
+  "melee": "melee_loba_heirloom",
+  "view_guid": "0xE97C952074F9B788",
+  "world_guid": "0xCA4BD5AE51BCCA66",
+  "core_bone": "def_c_base",
+  "good_for": "folding fan (arms + fan rigs)"
+ },
+ "fistblades": {
+  "melee": "melee_seer_heirloom",
+  "view_guid": "0xE2E9D2C0A9870CC1",
+  "world_guid": "0x0EC235B441A34B87",
+  "core_bone": "def_r_blade",
+  "good_for": "claws, katars (both hands)"
+ },
+ "gadget": {
+  "melee": "melee_wattson_gadget",
+  "view_guid": "0x1D8601995909C250",
+  "world_guid": "0x2083623E66C7EAE7",
+  "core_bone": "def_c_base",
+  "good_for": "gadget with tapes and wires"
+ },
+ "gloves": {
+  "melee": "melee_pathfinder_gloves",
+  "view_guid": "0x2FE5F903D99AB18A",
+  "world_guid": "0xC003B56C08DCB15E",
+  "core_bone": "def_r_glove_base",
+  "good_for": "knuckles, gauntlets (both hands)"
+ },
+ "guitar": {
+  "melee": "melee_fuse_heirloom",
+  "view_guid": "0x6FEE2FACF4F9EC75",
+  "world_guid": "0xCCB7DDC4EE0C7CBA",
+  "core_bone": "def_c_base",
+  "good_for": "guitar or axe with neck parts"
+ },
+ "hammer": {
+  "melee": "melee_caustic_hammer",
+  "view_guid": "0x6856EC0132DF8DF6",
+  "world_guid": "0x77EECC0AF692191C",
+  "core_bone": "def_body",
+  "good_for": "big two-hander: sledge, bat, club (rifle holster, heavy swings)"
+ },
+ "kukri": {
+  "melee": "melee_bangalore_heirloom",
+  "view_guid": "0x0C3FF43203BD4B39",
+  "world_guid": "0x9B3658B4DAA64DAF",
+  "core_bone": "def_magazine",
+  "good_for": "knife with sharpening flourishes"
+ },
+ "kunai": {
+  "melee": "melee_wraith_kunai",
+  "view_guid": "0x34F95802D12336FD",
+  "world_guid": "0xE0396CA0D44786F4",
+  "core_bone": "def_magazine",
+  "good_for": "any one-hand knife, dagger, card, short blade -- simplest host"
+ },
+ "kunai_rt01": {
+  "melee": "melee_wraith_kunai_rt01",
+  "view_guid": "0x002E41CF47AD437A",
+  "world_guid": "0x002EA3529A6EC285",
+  "core_bone": "def_magazine",
+  "good_for": "same skeleton as kunai, rethemed inspect"
+ },
+ "nunchuck": {
+  "melee": "melee_ash_heirloom",
+  "view_guid": "0x8BA20491B7605D59",
+  "world_guid": "0x313692ADF694D3DB",
+  "core_bone": "def_c_upper_hook",
+  "good_for": "flail, kusarigama, chain weapon"
+ },
+ "scythe": {
+  "melee": "melee_revenant_scythe",
+  "view_guid": "0x1C8132F2E1124F08",
+  "world_guid": "0x1CE2B682BD3B0242",
+  "core_bone": "def_c_base",
+  "good_for": "scythe or folding polearm"
+ },
+ "spear": {
+  "melee": "melee_valkyrie_spear",
+  "view_guid": "0x50213CFEEE015EEA",
+  "world_guid": "0xECAC3939E6E006AC",
+  "core_bone": "def_c_base",
+  "good_for": "polearm, staff, trident"
+ },
+ "trophy": {
+  "melee": "melee_mirage_statue",
+  "view_guid": "0x2C892EBCD64FE239",
+  "world_guid": "0x95F001E07D969785",
+  "core_bone": "def_c_statue",
+  "good_for": "statue or trophy club with many parts"
+ },
+ "warclub": {
+  "melee": "melee_gibraltar_club",
+  "view_guid": "0x861FFBEA41DE2852",
+  "world_guid": "0x8518C0F8C7A4618A",
+  "core_bone": "def_c_base",
+  "good_for": "club or mace with jiggle joints"
+ },
+ "wrench": {
+  "melee": "melee_rampart_wrench",
+  "view_guid": "0x891B85BEC2EEA62F",
+  "world_guid": "0x7C850DE2773834AB",
+  "core_bone": "def_c_base",
+  "good_for": "wrench with flaps"
+ }
+}
